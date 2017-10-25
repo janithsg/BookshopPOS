@@ -8,6 +8,9 @@ System to fulfill the main tasks of a Bookshop / Stationary shop.
 - Generate Reports
 
 Language Used : Java
+
 Architecture : MVC
+
 Design Patters : Singleton
+
 Database : MySQL
