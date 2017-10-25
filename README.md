@@ -9,8 +9,8 @@ System to fulfill the main tasks of a Bookshop / Stationary shop.
 
 Language Used : Java
 
-Architecture : MVC
+Architecture Used : MVC
 
-Design Patters : Singleton
+Design Patters Used : Singleton
 
-Database : MySQL
+Database Used : MySQL
