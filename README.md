@@ -1,7 +1,7 @@
 ## Bookshop Point Of Sales System
 System to fulfill the main tasks of a Bookshop / Stationary shop.
 
-####Features
+#### Features
 - Generate Reciepts / Bills
 - Stock Management
 - User Management
